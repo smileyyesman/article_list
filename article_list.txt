@@ -1,3 +1,6 @@
 1.* Diet-induced rewiring of the Wnt gene regulatory network connects aberrant splicing to fatty liver and liver cancer in DIAMOND mice
 2. Mapping and analysis of chromatin state dynamics in nine human cell types 
 3.Identification and analysis of significant genes in nonalcoholic steatohepatitis-hepatocellular carcinoma transformation: Bioinformatics analysis and machine learning approach 
+4. How the liver transcriptome and lipid composition influence the progression of nonalcoholic fatty liver disease to hepatocellular carcinoma in a murine model
+5.Human liver single nucleus and single cell RNA sequencing identify a hepatocellular carcinoma-associated cell-type affecting survival
+6.Cross-tissue omics analysis discovers ten adipose genes encoding secreted proteins in obesity-related non-alcoholic fatty liver disease

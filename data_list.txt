@@ -1,0 +1,7 @@
+GSE189175 : snRNA-seq of HCC [human]
+GSE220575	: RNA-seq of DIAMOND mice [mice]
+GSE220576 : Chip-seq of DIAMOND mice [mice]
+GSE246213 : ATAC-seq of STZ-HFD mice [mice]
+GSE246221 : RNA-seq of STZ-HFD mice [mice][human]
+https://data.mendeley.com/datasets/6wmzcskt6k/1 : scRNA-seq of HCC [human][mice]
+GSE124395 : RNA-seq of Normal liver [human]
